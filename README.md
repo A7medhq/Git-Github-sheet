@@ -13,7 +13,6 @@ $ git config --global user.email "your email"
 
 you need to do this only once if you pass the `--global` option, because then Git will always use that information for anything you do on that system.
 
-![identity](https://media.giphy.com/media/3ohuPzo9wLP1n0O4Q8/giphy.gif)
 
 <br>
 
